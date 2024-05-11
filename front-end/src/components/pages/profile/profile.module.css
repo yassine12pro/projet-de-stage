@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 10px solid black;
+    border-radius: 30px;
+    margin: 100px;
+    padding-bottom: 20px;
+}
+.name{
+    margin-left: 70px;
+    color: #e72929;
+}
+.rightside{
+    margin-right: 300px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.rightside ul {
+    list-style-type: none;
+}
+.rightside ul li span{
+    color: #e72929;
+}
+.leftside{
+    margin-left: 100px;
+}
